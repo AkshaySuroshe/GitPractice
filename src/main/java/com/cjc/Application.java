@@ -13,5 +13,7 @@ public class Application {
 	public void m1()
 	{
 		System.out.println("Change 1");
+		System.out.println("Change 2");
+		
 	}
 }
